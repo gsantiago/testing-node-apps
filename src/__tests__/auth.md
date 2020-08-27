@@ -202,4 +202,4 @@ invalid password, etc.).
 ## 🦉 Elaboration & Feedback
 
 After the instruction, copy the URL below into your browser:
-http://ws.kcd.im/?ws=Testing%20Node%20Apps&e=Testing%20Authentication%20API%20Routes&em=
+http://ws.kcd.im/?ws=Testing%20Node%20Apps&e=Testing%20Authentication%20API%20Routes&em=guilherme.santiago95@gmail.com
